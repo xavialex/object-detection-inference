@@ -21,7 +21,7 @@ It's also possible to run the source script in Python. If you're a conda user, y
     
 You can also clone the environment through the environment manager of Anaconda Navigator.
 
-Finally, an already trained model must be available in the *trained_model* folder for inference. For a quick start, have a look at the models available in the [TF Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md).
+Finally, an already trained model must be available in the *trained_model/* folder for inference. For a quick start, have a look at the models available in the [TF Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md).
 
 ## Use
 
